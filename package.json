@@ -8,7 +8,10 @@
     "test:watch": "jest --watchAll"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
     "@types/jest": "^28.1.6",
+    "babel-jest": "^29.0.1",
     "jest": "^28.1.3"
   }
 }
